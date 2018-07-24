@@ -31,3 +31,11 @@ In few minutes you will be able to see your new token in metamask account.
 Transaction on the generated token can be done using MetaMask similar to any other ERC20 based token .
 
 Cheers :) , you have successfully created and deployed your first ERC20 token
+
+# Notes for further understanding
+ 1. Use safemath to avoid the memory leak problems in transaction done on testToken 
+ 2. You can follow various twitter and telegram groups for further understanding of the subject
+ 3. Look into Truffle and ganache framework 
+ 4. You can also try other ethereum contract languages like Viper instead of Solidity
+ 
+ 
