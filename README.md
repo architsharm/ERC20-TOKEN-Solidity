@@ -36,6 +36,6 @@ Cheers :) , you have successfully created and deployed your first ERC20 token
  1. Use safemath to avoid the memory leak problems in transaction done on testToken 
  2. You can follow various twitter and telegram groups for further understanding of the subject
  3. Look into Truffle and ganache framework 
- 4. You can also try other ethereum contract languages like Viper instead of Solidity
+ 4. You can also try other ethereum contract languages like Vyper instead of Solidity
  
  
